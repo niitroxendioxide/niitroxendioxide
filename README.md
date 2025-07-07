@@ -8,6 +8,8 @@ I'm an 18yo developer from Argentina
 ## Languages:
 
 ### Most proficient in: 
+These are languages that i've used many times for different purposes, some i've used in game design, others i've embedded into apps or used as front-end for both web and desktop applications
+
 [![Lua](https://skillicons.dev/icons?i=lua&theme=dark)](https://skillicons.dev)
 [![C++](https://skillicons.dev/icons?i=cpp&theme=dark)](https://skillicons.dev)
 [![Rust](https://skillicons.dev/icons?i=rust&theme=dark)](https://skillicons.dev)
@@ -15,7 +17,9 @@ I'm an 18yo developer from Argentina
 [![Python](https://skillicons.dev/icons?i=py&theme=dark)](https://skillicons.dev)
 
 
-### Experience with Technologies such as:
+### Experience with Technologies:
+These i've used for various purposes, whether it be building applications or using as my editors for projects
+
 [![Tailwind](https://skillicons.dev/icons?i=tailwind&theme=dark)](https://skillicons.dev)
 [![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark)](https://skillicons.dev)
 [![Unity](https://skillicons.dev/icons?i=unity&theme=dark)](https://skillicons.dev)
@@ -25,6 +29,8 @@ I'm an 18yo developer from Argentina
 
 
 ### Communication and Organization using
+Self explanatory
+
 [![Notion](https://skillicons.dev/icons?i=notion&theme=dark)](https://skillicons.dev)
 [![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://skillicons.dev)
 
