@@ -27,7 +27,8 @@ I'm an 18yo developer from Argentina
 
 
 ### Operative Systems
-I've worked with both windows and different linux distros, i've used Arch-Linux (with Hyprland), Ubuntu and Windows 11 & 10
+I've worked with both windows and different linux distros, i've used Arch-Linux (with Hyprland), Ubuntu and Windows 11 & 10:
+
 [![Arch](https://skillicons.dev/icons?i=arch&theme=dark)](https://skillicons.dev)
 [![Ubuntu](https://skillicons.dev/icons?i=ubuntu&theme=dark)](https://skillicons.dev)
 [![Windows](https://skillicons.dev/icons?i=windows&theme=dark)](https://skillicons.dev)
