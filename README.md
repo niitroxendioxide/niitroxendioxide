@@ -21,10 +21,12 @@ I'm an 18yo developer from Argentina
 [![Unity](https://skillicons.dev/icons?i=unity&theme=dark)](https://skillicons.dev)
 [![NodeJS](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://skillicons.dev)
 [![Node Packet Manager](https://skillicons.dev/icons?i=npm&theme=dark)](https://skillicons.dev)
-[![Notion](https://skillicons.dev/icons?i=notion&theme=dark)](https://skillicons.dev)
 [![Vite](https://skillicons.dev/icons?i=vite&theme=dark)](https://skillicons.dev)
-[![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://skillicons.dev)
 
+
+### Communication and Organization using
+[![Notion](https://skillicons.dev/icons?i=notion&theme=dark)](https://skillicons.dev)
+[![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://skillicons.dev)
 
 ### Operative Systems
 I've worked with both windows and different linux distros, i've used Arch-Linux (with Hyprland), Ubuntu and Windows 11 & 10:
