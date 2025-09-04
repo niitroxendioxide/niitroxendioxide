@@ -12,6 +12,7 @@ These are languages that i've used many times for different purposes, some i've 
 
 [![Lua](https://skillicons.dev/icons?i=lua&theme=dark)](https://skillicons.dev)
 [![C++](https://skillicons.dev/icons?i=cpp&theme=dark)](https://skillicons.dev)
+[![C](https://skillicons.dev/icons?i=c&theme=dark)](https://skillicons.dev)
 [![Rust](https://skillicons.dev/icons?i=rust&theme=dark)](https://skillicons.dev)
 [![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)](https://skillicons.dev)
 [![Python](https://skillicons.dev/icons?i=py&theme=dark)](https://skillicons.dev)
