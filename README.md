@@ -42,7 +42,7 @@ I've worked with both windows and different linux distros, i've used Arch-Linux 
 [![Arch](https://skillicons.dev/icons?i=arch&theme=dark)](https://skillicons.dev)
 [![Ubuntu](https://skillicons.dev/icons?i=ubuntu&theme=dark)](https://skillicons.dev)
 [![Windows](https://skillicons.dev/icons?i=windows&theme=dark)](https://skillicons.dev)
-[![Windows](https://skillicons.dev/icons?i=mint&theme=dark)](https://skillicons.dev)
+[![Mint](https://skillicons.dev/icons?i=mint&theme=dark)](https://skillicons.dev)
 
 ## Summary
 Most of my experience comes from doing game development, i've worked on my own 3D-renderer and custom graphics engine, i've also set up multiple Rust applications for both back-end in servers or just desktop apps,
