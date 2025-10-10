@@ -11,13 +11,13 @@ I'm an 18yo developer from Argentina
 These are languages that i've used many times for different purposes, some i've used in game design, others i've embedded into apps or used as front-end for both web and desktop applications
 
 [![Lua](https://skillicons.dev/icons?i=lua&theme=dark)](https://skillicons.dev)
+[![Rust](https://skillicons.dev/icons?i=rust&theme=dark)](https://skillicons.dev)
 [![C++](https://skillicons.dev/icons?i=cpp&theme=dark)](https://skillicons.dev)
 [![C](https://skillicons.dev/icons?i=c&theme=dark)](https://skillicons.dev)
-[![Rust](https://skillicons.dev/icons?i=rust&theme=dark)](https://skillicons.dev)
+[![C#](https://skillicons.dev/icons?i=cs&theme=dark)](https://skillicons.dev)
 [![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)](https://skillicons.dev)
 [![Python](https://skillicons.dev/icons?i=py&theme=dark)](https://skillicons.dev)
 [![Java](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
-[![Java](https://skillicons.dev/icons?i=cs&theme=dark)](https://skillicons.dev)
 
 
 ### Experience with Technologies:
