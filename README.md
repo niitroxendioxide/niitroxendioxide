@@ -17,6 +17,7 @@ These are languages that i've used many times for different purposes, some i've 
 [![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)](https://skillicons.dev)
 [![Python](https://skillicons.dev/icons?i=py&theme=dark)](https://skillicons.dev)
 [![Java](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
+[![Java](https://skillicons.dev/icons?i=csharp&theme=dark)](https://skillicons.dev)
 
 
 ### Experience with Technologies:
@@ -28,6 +29,7 @@ These i've used for various purposes, whether it be building applications or usi
 [![NodeJS](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://skillicons.dev)
 [![Node Packet Manager](https://skillicons.dev/icons?i=npm&theme=dark)](https://skillicons.dev)
 [![Vite](https://skillicons.dev/icons?i=vite&theme=dark)](https://skillicons.dev)
+[![Bun](https://skillicons.dev/icons?i=bun&theme=dark)](https://skillicons.dev)
 
 
 ### Communication and Organization using
