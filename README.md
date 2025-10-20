@@ -18,7 +18,7 @@ These are languages that i've used many times for different purposes, some i've 
 [![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)](https://skillicons.dev)
 [![Python](https://skillicons.dev/icons?i=py&theme=dark)](https://skillicons.dev)
 [![Java](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
-[![Assembly](https://skillicons.dev/icons?i=asm&theme=dark)](https://skillicons.dev)
+[![Assembly](https://skillicons.dev/icons?i=as&theme=dark)](https://skillicons.dev)
 
 
 ### Experience with Technologies:
