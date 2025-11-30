@@ -1,6 +1,6 @@
 # Niitroxen
 
-I'm an 18yo developer from Argentina
+I'm an 19yo developer from Argentina
 
 - Fullstack Developer
 - High experience in game-dev & game-design
