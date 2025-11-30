@@ -10,7 +10,7 @@ I'm an 18yo developer from Argentina
 ### Most proficient in: 
 These are languages that i've used many times for different purposes, some i've used in game design, others i've embedded into apps or used as front-end for both web and desktop applications
 
-[![Lua](https://skillicons.dev/icons?i=lua&theme=dark)](https://skillicons.dev)
+[![Lua](https://skillicons.dev/icons?i=luau&theme=dark)](https://skillicons.dev)
 [![Rust](https://skillicons.dev/icons?i=rust&theme=dark)](https://skillicons.dev)
 [![C++](https://skillicons.dev/icons?i=cpp&theme=dark)](https://skillicons.dev)
 [![C](https://skillicons.dev/icons?i=c&theme=dark)](https://skillicons.dev)
