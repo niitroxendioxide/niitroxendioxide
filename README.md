@@ -43,7 +43,7 @@ Self explanatory
 I've worked with both windows and different linux distros, i've used Arch-Linux (with Hyprland), Ubuntu and Windows 11 & 10:
 
 [![Arch](https://skillicons.dev/icons?i=arch&theme=dark)](https://skillicons.dev)
-[![Ubuntu](https://skillicons.dev/icons?i=nixos&theme=dark)](https://skillicons.dev)
+[![NixOS](https://skillicons.dev/icons?i=nix&theme=dark)](https://skillicons.dev)
 [![Windows](https://skillicons.dev/icons?i=windows&theme=dark)](https://skillicons.dev)
 [![Mint](https://skillicons.dev/icons?i=mint&theme=dark)](https://skillicons.dev)
 
